@@ -1,4 +1,4 @@
-# covid-hcs
+# [covid-hcs](https://covid-hcs.github.io)
 [교육부의 건강상태 자가진단](https://hcs.eduro.go.kr)을 분석하고
 관련 매크로를 만드는 사람들이 만든 조직.
 
